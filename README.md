@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hello, I'm Elizabeth
+- 1st year CS @ UWaterloo
+
+
 
 <!--
 **ecsling/ecsling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
