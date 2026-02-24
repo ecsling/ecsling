@@ -1,4 +1,4 @@
-# (˶ᵔᗜᵔ˶)ﾉﾞHello! I'm Elizabeth Ling.
+# (˶ᵔᗜᵔ˶)ﾉﾞhello! my name's Elizabeth Ling.
 - first year CS @ UWaterloo
 - home is Vaughan, Ontario
 
