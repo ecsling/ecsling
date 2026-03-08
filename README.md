@@ -1,6 +1,6 @@
-# (˶ᵔᗜᵔ˶)ﾉﾞhello! my name's Elizabeth Ling.
-- first year CS @ UWaterloo
-- home is Vaughan, Ontario
-
-## reach out!
-e: e7ling@uwaterloo.ca
+```
+                               \\\\\       \\\\\
+   \\\\__.  \\\\__.  \\\\__.  \\\\\\\__.  \\\\\\\__o
+___\\\\'/___\\\\'/___\\\\'/___\\\\\\\'/___\\\\\\\'/___
+```
+find more about me at [elizabeth-ling.com](elizabeth-ling.com) CURRENTLY WIP
